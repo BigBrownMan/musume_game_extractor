@@ -10,5 +10,11 @@ Things to work on:
 - Find a way to download the assets corretly since the URL format can be quite weird. Right now it only download the first couple of girls/allies correctly
 
 
+## Executing the code
 
+- You will need to install Python: https://www.python.org/downloads/
+- Download the main.py file found in this repo
+- Open a termina in Windows or Linux
+- go to the folder you downloaded main.py
+- Run the following command: python3 main.py
 
