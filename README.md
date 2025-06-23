@@ -13,7 +13,7 @@ Things to work on:
 
 - You will need to install Python: https://www.python.org/downloads/
 - Download the main.py file found in this repo
-- Open a termina in Windows or Linux
+- Open a terminal in Windows or Linux
 - go to the folder you downloaded main.py
 - Run the following command: python3 main.py
 
