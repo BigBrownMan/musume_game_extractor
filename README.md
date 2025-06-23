@@ -8,6 +8,16 @@ Things to work on:
 
 - Find a way to combine the assets to create the animations found in the game
 
+After looking around the Monster Musume discord, found a tutorial:
+https://docs.google.com/document/d/1V8drIJnqG4tUI5tQIvBhh39wNtadMxcFiLuNrqRkFgw/edit?tab=t.0
+
+Can add a step in the download that make step 2 automatically. For the rest though, will be hard to do that automatically.....
+
+From looking around gamedev reddit, seems to be using Cocos2d for the engine:
+https://www.cocos.com/en
+
+Which is a opensource game engine with a game engine UI. Found a page for Atlas:
+https://docs.cocos.com/creator/2.4/manual/en/asset-workflow/atlas.html
 
 ## Executing the code
 
