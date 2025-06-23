@@ -7,7 +7,6 @@ This project does **not** contain the assets themselves. You need to execute the
 Things to work on:
 
 - Find a way to combine the assets to create the animations found in the game
-- Find a way to download the assets corretly since the URL format can be quite weird. Right now it only download the first couple of girls/allies correctly
 
 
 ## Executing the code
